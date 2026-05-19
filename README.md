@@ -1,2 +1,2 @@
-# hacking-do-not-touch
+# chess
 Do not touch
